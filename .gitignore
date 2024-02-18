@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+out/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Testing coverage
+coverage/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Temporary files
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Optional: cache directories
+.npm
+.cache
+
+# Optional: linters and formatters cache
+.eslintcache
+.stylelintcache
+
+# Optional: REPL history
+.node_repl_history
+
+# Optional: Build artifacts
+*.tgz
